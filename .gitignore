@@ -1,3 +1,15 @@
 ProjectSettings/
-ClientLogic/GameClient/GameClient/bin
-ClientLogic/GameClient/GameClient/obj
+Library/
+
+U3DArchiture.CSharp.csproj
+U3DArchiture.CSharp.Editor.csproj
+U3DArchiture.sln
+
+
+ClientLogic/ClientLogic/bin
+ClientLogic/ClientLogic/obj
+
+Assets/Plugins/GameLogic/*.mdb
+Assets/Plugins/GameLogic/*.mdb.meta
+Assets/Plugins/GameLogic/*.pdb
+Assets/Plugins/GameLogic/*.pdb.meta
